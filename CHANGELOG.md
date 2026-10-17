@@ -13,3 +13,4 @@
 ### 新增
 
 - 初始化洞察仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
+- 迁入 `work/`：工作主线洞察四篇（AI、业务、创作、平台），源自 `data/context/work/insight/`

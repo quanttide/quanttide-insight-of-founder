@@ -6,4 +6,7 @@
 
 ## 目录
 
-- 待补充。
+- [work/ai.md](./work/ai.md)：AI 与人机协作。
+- [work/business.md](./work/business.md)：业务。
+- [work/creative.md](./work/creative.md)：创作。
+- [work/platform.md](./work/platform.md)：平台。
