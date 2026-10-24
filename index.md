@@ -10,4 +10,4 @@
 - [work/creative.md](./work/creative.md)：创作。
 - [work/platform.md](./work/platform.md)：平台。
 
-人机协作的完整论述见论文《人机协作的两笔账：从生产转向治理》。
+人机协作的完整论述见论文《人机协作：从生产转向治理》。
