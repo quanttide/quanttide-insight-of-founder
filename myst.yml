@@ -10,7 +10,6 @@ project:
     - file: index.md
     - title: 工作
       children:
-        - file: work/ai.md
         - file: work/business.md
         - file: work/creative.md
         - file: work/platform.md

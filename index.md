@@ -6,7 +6,8 @@
 
 ## 目录
 
-- [work/ai.md](./work/ai.md)：AI 与人机协作。
 - [work/business.md](./work/business.md)：业务。
 - [work/creative.md](./work/creative.md)：创作。
 - [work/platform.md](./work/platform.md)：平台。
+
+人机协作的完整论述见论文《人机协作的两笔账：从生产转向治理》。
