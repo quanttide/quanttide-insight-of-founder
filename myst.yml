@@ -13,10 +13,18 @@ project:
       children:
         - file: qtgame-war/code/index.md
         - file: qtgame-war/code/determinism.md
+        - file: qtgame-war/code/loop.md
+        - file: qtgame-war/code/engine.md
         - file: qtgame-war/code/contract.md
         - file: qtgame-war/code/replay.md
-        - file: qtgame-war/code/acceptance.md
+        - file: qtgame-war/code/cognition.md
+        - file: qtgame-war/code/opponent.md
+        - file: qtgame-war/code/staff.md
+        - file: qtgame-war/code/scenario.md
         - file: qtgame-war/code/params.md
+        - file: qtgame-war/code/acceptance.md
+        - file: qtgame-war/code/driver.md
+        - file: qtgame-war/code/roadmap.md
     - title: 工作
       children:
         - file: work/business.md
