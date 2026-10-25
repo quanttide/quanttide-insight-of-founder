@@ -9,7 +9,14 @@ project:
   toc:
     - file: index.md
     - file: qtgame-war/game/index.md
-    - file: qtgame-war/code/index.md
+    - title: 游戏 · 实现
+      children:
+        - file: qtgame-war/code/index.md
+        - file: qtgame-war/code/determinism.md
+        - file: qtgame-war/code/contract.md
+        - file: qtgame-war/code/replay.md
+        - file: qtgame-war/code/acceptance.md
+        - file: qtgame-war/code/params.md
     - title: 工作
       children:
         - file: work/business.md
