@@ -23,6 +23,5 @@
   - [params.md](./qtgame-war/code/params.md)：参数与校准。
   - [acceptance.md](./qtgame-war/code/acceptance.md)：验收体系。
   - [driver.md](./qtgame-war/code/driver.md)：驱动层。
-  - [roadmap.md](./qtgame-war/code/roadmap.md)：开发顺序。
 
 人机协作的完整论述见论文《人机协作：从生产转向治理》。
