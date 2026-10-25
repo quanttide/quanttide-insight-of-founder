@@ -8,6 +8,7 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - file: qtgame-war/code/index.md
     - title: 工作
       children:
         - file: work/business.md
