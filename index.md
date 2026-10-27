@@ -6,6 +6,9 @@
 
 ## 目录
 
+- [org/role.md](./org/role.md)：创始人角色。
+- [org/replication.md](./org/replication.md)：开源公司与复制组织。
+- [org/platform.md](./org/platform.md)：消除摩擦的平台。
 - [work/business.md](./work/business.md)：业务。
 - [work/creative.md](./work/creative.md)：创作。
 - [work/platform.md](./work/platform.md)：平台。
