@@ -34,6 +34,10 @@ project:
         - file: work/business.md
         - file: work/creative.md
         - file: work/platform.md
+    - title: 生活
+      children:
+        - file: life/pressure-and-decision.md
+        - file: life/work-life-balance.md
 site:
   template: book-theme
   options:

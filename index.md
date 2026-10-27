@@ -12,6 +12,8 @@
 - [work/business.md](./work/business.md)：业务。
 - [work/creative.md](./work/creative.md)：创作。
 - [work/platform.md](./work/platform.md)：平台。
+- [life/pressure-and-decision.md](./life/pressure-and-decision.md)：压力是报警器。
+- [life/work-life-balance.md](./life/work-life-balance.md)：边界问题源于身份未分。
 - [qtgame-war/game/index.md](./qtgame-war/game/index.md)：游戏《迷雾中的司令部》的玩法判断。
 - [qtgame-war/code/index.md](./qtgame-war/code/index.md)：游戏《迷雾中的司令部》的系统设计。
   - [determinism.md](./qtgame-war/code/determinism.md)：确定性。
