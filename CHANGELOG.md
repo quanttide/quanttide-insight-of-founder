@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 新增
+
+- `default/`：`self-reward-origin.md`、`random-extraction-mechanism.md`、`reflection-quality.md` 三条，自 `data/context` 分诊后由 `qtfounder asset maintain` 迁入
+
 ### 移除
 
 - `qtgame-war/code/roadmap.md`：开发顺序归路线图仓，洞察层不再承载近景排法
