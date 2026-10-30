@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### Removed
+
+- `qtgame-war/` 分区（game/ 玩法 1 篇 + code/ 系统设计 13 篇）迁出为独立仓 `quanttide-insight-of-war-gaming`；index、README 与 `myst.yml` 目录同步
+
 ### 新增
 
 - `default/math.md`、`default/meta.md`：10-29 日志分诊出的两条洞察（数学学习策略、分类与定义的思维方式），自 `data/context/default/insight/` 由 `qtfounder asset maintain` 迁入
