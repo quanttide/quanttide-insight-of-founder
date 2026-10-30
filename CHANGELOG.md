@@ -12,6 +12,7 @@
 
 ### 新增
 
+- `default/math.md`、`default/meta.md`：10-29 日志分诊出的两条洞察（数学学习策略、分类与定义的思维方式），自 `data/context/default/insight/` 由 `qtfounder asset maintain` 迁入
 - `default/`：`self-reward-origin.md`、`random-extraction-mechanism.md`、`reflection-quality.md` 三条，自 `data/context` 分诊后由 `qtfounder asset maintain` 迁入
 
 ### 移除
